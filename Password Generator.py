@@ -1,3 +1,5 @@
+#READ ME: This is a password generator.
+
 import random
 import string
 
